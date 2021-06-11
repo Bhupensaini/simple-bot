@@ -45,5 +45,5 @@ if __name__ == "__main__":
 			results = wikipedia.summary(cmd, sentences=3)
 			speak(results)
 
-		elif 'open youtube' in cmd:
+# 		elif 'open youtube' in cmd:
 			
