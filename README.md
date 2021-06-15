@@ -7,4 +7,4 @@ Navigate to the directory where your project is.
 Run the following command:
   
   
-  $ pip install -r requirements.txt
+    $ pip install -r requirements.txt
